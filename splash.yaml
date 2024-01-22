@@ -1,0 +1,13 @@
+flutter_native_splash:
+     color: "#FFFFFF"
+     color_dark: "#272727"
+     image: assets\images\a314a0164025781.63ef8933c13b5-removebg-preview.png
+     image_dark: assets\images\a314a0164025781.63ef8933c13b5-removebg-preview.png
+
+#   android_12:
+#      color: "#FFFFFF"
+#      color_dark: "#272727"
+#      image: assets\images\a314a0164025781.63ef8933c13b5-removebg-preview.png
+#      image_dark: assets\images\a314a0164025781.63ef8933c13b5-removebg-preview.png
+
+web: false
