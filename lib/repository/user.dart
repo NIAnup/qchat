@@ -13,4 +13,4 @@
 //   .collection('users').doc(_auth.currentUser!.uid).get()).exists;
   
 //   }
-//} contunise https://www.youtube.com/watch?v=KhfVp2gav3U&list=PL8kbUJtS6hyal7Uw7wTeYmv7yiNPH5kOq&index=20
+//} 
